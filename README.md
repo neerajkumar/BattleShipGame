@@ -55,6 +55,14 @@ First line of the input contains dimensions of battle area having width and heig
       Player-2 fires a missile with target D4 which got miss
       Player-1 no more missiles left to launch
       Player-2 fires a missile with target D5 which got hit 
-      Player-2 won the battle      
+      Player-2 won the battle
+      
+## Run the Program
+
+Just run the file ```battle_ship_game.rb``` using command.
+
+      $ ruby battle_ship_game.rb
+      
+It will fetch the input from file ```lib/input.txt``` and execute the program.      
       
 
