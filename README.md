@@ -27,7 +27,7 @@ First line of the input contains dimensions of battle area having width and heig
       1 <= X coordinate of ship <= M’
       A <= Y coordinate of ship <= N’
       
-### Sample Input
+## Sample Input
 
       5E
       2
@@ -36,7 +36,7 @@ First line of the input contains dimensions of battle area having width and heig
       A1 B2 B2 B3
       A1 B2 B3 A1 D1 E1 D4 D4 D5 D5
       
-### Sample Output
+## Sample Output
 
       Player-1 fires a missile with target A1 which got miss
       Player-2 fires a missile with target A1 which got hit 
