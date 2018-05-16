@@ -10,7 +10,7 @@ end
 
 desc "To run battleship_game.rb file"
 task :run_me do
-  ruby "battleship_game.rb"
+  ruby "battle_ship_game.rb"
 end
 
 desc "Open an irb session preloaded with this library"

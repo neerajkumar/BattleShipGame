@@ -63,6 +63,10 @@ Just run the file ```battle_ship_game.rb``` using command.
 
       $ ruby battle_ship_game.rb
       
+or, you can run the rake task too.
+
+      $ bundle exec rake run_me      
+      
 It will fetch the input from file ```lib/input.txt``` and execute the program.      
       
 
