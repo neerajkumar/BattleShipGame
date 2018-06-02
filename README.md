@@ -67,6 +67,11 @@ or, you can run the rake task too.
 
       $ bundle exec rake run_me      
       
-It will fetch the input from file ```lib/input.txt``` and execute the program.      
+It will fetch the input from file ```lib/input.txt``` and execute the program.
+
+In order to open IRB session preloaded with this library, run rake task
+
+      $ bundle exec rake console
+
       
 
